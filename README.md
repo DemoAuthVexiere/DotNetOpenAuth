@@ -1,4 +1,4 @@
-## Vexiere Core Service Harness ##
+## Dot Net Open Auth ##
 
 
   	<appSettings>
